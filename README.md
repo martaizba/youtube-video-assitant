@@ -23,3 +23,4 @@ streamlit run main.py
 
 - Twitter: [@rishabkumar7](https://twitter.com/rishabk7)
 - LinkedIn: [rishabkumar7](https://linkedin.com/in/rishabkumar7)
+Check his video on: https://www.youtube.com/watch?v=lG7Uxts9SXs&list=PLVFiOb5pV1TXi2qmC_RR4cgB24eRpqP0t&index=19&t=361s
